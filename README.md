@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Sales Dashboard in Excel
 
 ## Table of Contents
 
