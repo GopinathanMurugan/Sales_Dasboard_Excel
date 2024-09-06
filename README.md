@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Sales Dashboard
 
 ## Table of Contents
 
