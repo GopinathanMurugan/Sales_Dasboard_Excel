@@ -10,8 +10,7 @@
 6. [Data Analysis](#data-analysis)
 7. [Results](#results)
 8. [Recommendations](#recommendations)
-9. [License](#license)
-10. [Contact](#contact)
+9. [Contact](#contact)
 
 ## Project Overview
 
@@ -72,9 +71,6 @@ This project analyzes sales data to understand sales performance, profitability,
 - **Improve Profit Margins**: Reassess pricing strategies for low-margin products and reduce operational costs.
 - **Use Data-Driven Decisions**: Leverage predictive analytics, monitor KPIs, and improve data collection.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
