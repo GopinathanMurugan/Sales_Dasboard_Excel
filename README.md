@@ -23,6 +23,8 @@ This project analyzes sales data to understand sales performance, profitability,
 - **Map Chart**: Includes geographical sales data for various states.
 - **Superstore Sales**: Detailed dataset with order dates, customer names, states, product categories, and sales/profit information.
 - **Customer Counts**: Provides customer names by year.
+
+
 ![Screenshot (3)](https://github.com/user-attachments/assets/dbda7e28-b92c-4c13-8f8b-982b1669af24)
 
 
