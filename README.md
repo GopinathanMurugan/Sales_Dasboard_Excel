@@ -55,7 +55,6 @@ This project analyzes sales data to understand sales performance, profitability,
 - **Customer Segmentation and Profitability**: Identify and segment high-value customers.
 - **Product Performance**: Analyze best-selling and most profitable products.
 - **Geographical and Customer Behavior Analysis**: Evaluate sales and profitability by region and analyze customer behavior.
-- ![Logo](images/logo.png)
 
 ## Results
 
