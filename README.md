@@ -1,7 +1,5 @@
 # Sales Dashboard in Excel
-
 ## Table of Contents
-
 1. [Project Overview](#project-overview)
 2. [Data Source](#data-source)
 3. [Tool](#tool)
